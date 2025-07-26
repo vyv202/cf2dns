@@ -5,7 +5,7 @@ on:
     branches: 
       - master
   schedule:
-    - cron: '172.67.253.120'
+    - cron: 'www.visa.com.tw'
 
 env:
   UPDATE_IPV4: true
